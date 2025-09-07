@@ -1,5 +1,8 @@
-#Odin Recipies
+# Odin Recipies
 A basic recipe website
 
-##Contents
+## Contents
 A main index page which will have links to a few recipes.
+- Lasagna
+- Ramen
+- Scrambled Eggs
