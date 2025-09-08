@@ -1,0 +1,16 @@
+body {
+    font-family: Copperplate, Papyrus;
+    font-size: large;
+    background-color: lemonchiffon;
+    padding: 10px 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: brown;
+    font-weight: bolder;
+}
+
+ul li {
+    list-style: square;
+    color: darkgreen;
+}
