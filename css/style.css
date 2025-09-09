@@ -14,3 +14,20 @@ ul li {
     list-style: square;
     color: darkgreen;
 }
+
+ul.homepage {
+    display: flex;
+    gap: 300px;
+}
+
+ul.homepage li {
+    flex: 1;
+    list-style-type: none;
+    background-color: goldenrod;
+    text-align: center;
+    font-size: larger;
+}
+
+ul.homepage li a {
+    text-decoration: none;
+}
